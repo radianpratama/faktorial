@@ -1,0 +1,15 @@
+   public static void main(String[] args) {
+        {		
+		int n, i, prod=1;
+		Scanner scan= new Scanner(System.in);
+		System.out.print("masukan anggka :");
+		n=scan.nextInt();
+		for(i=n;i>=1;i--)
+		{
+			prod*=i;	//prod=prod*i;
+		}
+		System.out.println("faktorial " + n + " adalah  " + prod);
+	}
+    }
+    
+}
