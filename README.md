@@ -1,0 +1,4 @@
+faktorial
+=========
+
+jurnal modul2
